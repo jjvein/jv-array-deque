@@ -1,0 +1,22 @@
+{
+  "name": "jv-array-deque",
+  "version": "1.0.0",
+  "description": "no duplicated value in an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjvein/jv-array-deque.git"
+  },
+  "keywords": [
+    "deque"
+  ],
+  "author": "jjvein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjvein/jv-array-deque/issues"
+  },
+  "homepage": "https://github.com/jjvein/jv-array-deque#readme"
+}
